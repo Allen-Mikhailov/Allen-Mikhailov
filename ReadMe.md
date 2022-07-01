@@ -1,1 +1,2 @@
 <h1>Hello 👋</h1>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pwntester)](https://github.com/anuraghazra/github-readme-stats)
