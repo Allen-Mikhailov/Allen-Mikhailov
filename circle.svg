@@ -15,11 +15,12 @@
             }
 
             path {
-                fill: blue
+                fill: green;
+                stroke: gold;
             }
 
             path:hover {
-                fill: gold
+                fill: gold;
             }
         </style>
 
