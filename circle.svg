@@ -17,9 +17,12 @@
             path {
                 fill: blue
             }
+
+            path:hover {
+                fill: gold
+            }
         </style>
 
     <path d="M 50 10 l 20 25 l -10 0 l 20 25 l -10 0 l 20 25 l -80 0 l 20 -25 l -10 0 l 20 -25 l -10 0 l 20 -25 l 20 25"></path>
-    <!-- <circle cx="150" cy="100" r="80" /> -->
 </svg>
     
