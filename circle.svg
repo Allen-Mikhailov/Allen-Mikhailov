@@ -19,7 +19,7 @@
                 stroke: gold;
             }
 
-            path:hover {
+            svg:hover path {
                 fill: gold;
             }
         </style>
