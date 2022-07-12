@@ -7,7 +7,12 @@
         role="img"
         aria-labelledby="descId"
       >
-    <link rel="stylesheet" href="style.css">
+
+      <style>
+        .circle {
+            fill: "red"
+        }
+      </style>
 
 
 
