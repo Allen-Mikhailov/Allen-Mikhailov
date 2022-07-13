@@ -8,19 +8,15 @@
         aria-labelledby="descId"
       >
         <style>
-            circle {
-                fill: gold;
-                stroke: maroon;
-                stroke-width: 2px;
+            @keyframes animation {
+                fill: blue
             }
 
             path {
                 fill: green;
                 stroke: gold;
-            }
-
-            svg:hover path {
-                fill: gold;
+                animation-name: animation;
+                animation-duration: 1s;
             }
         </style>
 
