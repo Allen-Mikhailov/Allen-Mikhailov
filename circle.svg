@@ -9,11 +9,11 @@
       >
         <style>
             @keyframes anim {
-                from {
+                0% {
                     fill: green;
                 }
 
-                to {
+                100% {
                     fill: blue;
                 }
             }
