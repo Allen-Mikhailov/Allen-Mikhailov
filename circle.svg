@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <style>
-            @keyframes animation {
+            @keyframes anim {
                 from {
                     fill: green;
                 }
@@ -21,8 +21,7 @@
             path {
                 fill: green;
                 stroke: gold;
-                animation-name: animation;
-                animation-duration: 1s;
+                animation: amim .3s
             }
         </style>
 
