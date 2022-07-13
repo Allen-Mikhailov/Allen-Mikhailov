@@ -23,6 +23,10 @@
                 stroke: gold;
                 animation: anim 5s
             }
+
+            path:after {
+                fill: blue
+            }
         </style>
 
     <path d="M 50 10 l 20 25 l -10 0 l 20 25 l -10 0 l 20 25 l -80 0 l 20 -25 l -10 0 l 20 -25 l -10 0 l 20 -25 l 20 25"></path>
