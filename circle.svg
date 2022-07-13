@@ -22,10 +22,7 @@
                 fill: green;
                 stroke: gold;
                 animation: anim 5s
-            }
-
-            path:after {
-                fill: blue
+                animation-fill-mode: forwards;
             }
         </style>
 
