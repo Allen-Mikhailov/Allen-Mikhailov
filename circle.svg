@@ -9,7 +9,13 @@
       >
         <style>
             @keyframes animation {
-                fill: blue
+                from {
+                    fill: green;
+                }
+
+                to {
+                    fill: blue;
+                }
             }
 
             path {
