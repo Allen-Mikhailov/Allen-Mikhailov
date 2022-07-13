@@ -21,7 +21,7 @@
             path {
                 fill: green;
                 stroke: gold;
-                animation: anim .3s
+                animation: anim 5s
             }
         </style>
 
