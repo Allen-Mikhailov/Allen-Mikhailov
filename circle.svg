@@ -61,6 +61,10 @@
     <!-- Background -->
     <!-- <rect width="100" height="100" fill="white" /> -->
 
+    <text>
+        version 1.0
+    </text>
+
     <g class="tree left" >
         <rect class="stump left" x="42.5" y="80" />
         <path class="left"
